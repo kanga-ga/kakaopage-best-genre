@@ -1,3 +1,8 @@
-# kakaopage-best-genre
-# kakaopage-best-genre
-# kakaopage-best-genre
+카카오 페이지 실시간 인기 장르 분석기
+===================================
+<h2>Playwright 사용(크롤링)</h2>
+<h2>태그 수집</h2>
+
+
+
+
